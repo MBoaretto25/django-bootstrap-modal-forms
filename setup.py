@@ -15,7 +15,7 @@ setup(
     license='MIT License',
     description='A Django plugin for creating AJAX driven forms in Bootstrap modal.',
     long_description=README,
-    url='https://github.com/trco/django-bootstrap-modal-forms',
+    url='https://github.com/MBoaretto25/django-bootstrap-modal-forms',
     author='Uros Trstenjak',
     author_email='uros.trstenjak@gmail.com',
     install_requires=[
